@@ -1,5 +1,5 @@
 # AI
-To run this, run Game_Manager3
+To run this, run GameManager_3
 
 My basic approach is to use a Expectimax to get 2048 about 40-50% of the time.  
 
