@@ -1,5 +1,7 @@
 # AI
-To run this, run GameManager_3
+To run this, run GameManager_3 using:
+
+python GameManager_3 on windows
 
 My basic approach is to use a Expectimax to get 2048 about 40-50% of the time.  
 
