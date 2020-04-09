@@ -1,4 +1,6 @@
 # AI
+To run this, run Game_Manager3
+
 My basic approach is to use a Expectimax to get 2048 about 40-50% of the time.  
 
 I've included 4 heuristics I use to determine the state of the grid:
@@ -10,4 +12,5 @@ How smooth the board is.
 
 I've also created heuristic weights for everyhting but the weight of the board to increase my chances at getting 2048.
 
- I've referenced a few sources in creating this in comments in the code.
+https://stackoverflow.com/questions/22342854/what-is-the-optimal-algorithm-for-the-game-2048
+This helped me with understanding the heuristics of this game!
