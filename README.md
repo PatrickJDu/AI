@@ -9,3 +9,5 @@ if the board is monotonic.
 How smooth the board is.
 
 I've also created heuristic weights for everyhting but the weight of the board to increase my chances at getting 2048.
+
+ I've referenced a few sources in creating this in comments in the code.
